@@ -1,4 +1,0 @@
-# byte-forge
-Commit 4
-Date: 2023-10-02T23:13:30Z
-Refactor helpers
