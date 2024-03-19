@@ -1,0 +1,4 @@
+# byte-forge
+Commit 7
+Date: 2024-03-19T08:50:58Z
+Improve error handling
