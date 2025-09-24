@@ -1,4 +1,0 @@
-# byte-forge
-Commit 8
-Date: 2024-08-13T14:45:52Z
-Add documentation
