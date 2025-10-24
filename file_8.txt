@@ -1,4 +1,0 @@
-# byte-forge
-Commit 9
-Date: 2025-09-24T08:13:28Z
-Optimize performance
